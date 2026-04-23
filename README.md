@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Khilesh Maskare
 
-I'm a **Full Stack Developer** with 1 year of professional experience, passionate about building scalable web applications and exploring the power of AI and LLMs.
+I'm a **Full Stack Developer** with 2 year of professional experience, passionate about building scalable web applications and exploring the power of AI and LLMs.
 
 ---
 
